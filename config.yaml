@@ -175,6 +175,9 @@ outputs:
 # Site Menu
 menu:
   main:
+    - name: Quickstart
+      url: /docs/v3.4/quickstart/
+      weight: -20
     - name: Docs
       url: /docs/v3.4/
       weight: -10
