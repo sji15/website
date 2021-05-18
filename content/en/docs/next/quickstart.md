@@ -51,7 +51,7 @@ ln -s /tmp/etcd-${ETCD_VER}-darwin-amd64/* /tmp/test-etcd
 ```
 
 {{% alert title="Note" color="info" %}}
-To work with the latest version, learn how to [build from the main branch](/docs/{{< param version >}}/dl-build/#build-the-latest-version).
+To work with the latest version, learn how to [build from the main branch](/docs/{{< param version >}}/install/#build-the-latest-version).
 {{% /alert %}}
 
 ## Launch etcd
