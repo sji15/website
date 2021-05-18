@@ -57,6 +57,7 @@ If etcd is built without using `go get`, run the following:
 ```sh
 $ ./bin/etcd
 ```
+
 If etcd is built using `go get`, run the following:
 
 ```sh
